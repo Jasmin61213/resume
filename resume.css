@@ -1,0 +1,21 @@
+.wrap{
+    display: flex;
+}
+.content{
+    flex: block;
+    padding: 30px 100px 30px 100px;
+}
+
+.text{
+    padding: 5px 0px 5px 0px;
+}
+
+.title{
+    text-align: center;font-size: 30px;font-weight: bold;
+    margin-bottom: 35px;
+}
+
+.title2{
+    font-size: 20px;font-weight: bold;
+    margin-top: 20px;margin-bottom: 20px;
+}
